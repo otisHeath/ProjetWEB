@@ -1,0 +1,59 @@
+    .titrePrincipale{
+        font-family:'austeinscript';
+    
+    color : black;
+    text-align: center;
+    background-color:rgb(25, 153, 204);
+    position:sticky;
+    
+}
+@font-face {
+    font-family: 'austeinscript';
+    src: url('Police/austein-webfont.woff2') format('woff2'),
+         url('austein-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.basket{
+    margin: auto;
+    
+}
+.basket tr,.basket th{
+    border : solid black 1px;
+    background-color: beige;
+
+}
+.basket td{
+    background-color: white;
+    
+   border: solid black 1px;
+}
+
+p{
+    text-align: center;
+    text-decoration: dashed;
+}
+.lien{
+    font-family:'austeinscript';
+    color : black;
+
+
+}
+.tableau td,.tableau  tr {
+    border : solid black 1px;
+}
+h3 {
+    font-size: large
+    ;
+    font-style: italic;
+    color : red;
+
+}
+img {
+    width: auto;
+    height: auto;
+}
+.videobasket{
+    display:block;width:480px;margin:0 auto 35px auto 
+} 
