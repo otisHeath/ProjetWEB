@@ -1,4 +1,4 @@
-    .titrePrincipale{
+    .titrePrincipale {
         font-family:'austeinscript';
     
     color : black;
@@ -6,6 +6,9 @@
     background-color:rgb(25, 153, 204);
     position:sticky;
     
+}
+.lien :focus{
+    background: yellow;
 }
 @font-face {
     font-family: 'austeinscript';
